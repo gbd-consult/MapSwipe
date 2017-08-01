@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg5692"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+   inkscape:export-xdpi="106.66666"
+   inkscape:export-ydpi="106.66666">
+  <title
+     id="title2829">GIS icon theme 0.2</title>
+  <defs
+     id="defs5694">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 16 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="32 : 16 : 1"
+       inkscape:persp3d-origin="16 : 10.666667 : 1"
+       id="perspective3486" />
+    <inkscape:perspective
+       id="perspective3496"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3600"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective7871"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective8710"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective9811"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4762"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="29.007629"
+     inkscape:cx="14.062171"
+     inkscape:cy="10.689012"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="false"
+     inkscape:window-width="1163"
+     inkscape:window-height="1205"
+     inkscape:window-x="1322"
+     inkscape:window-y="60"
+     inkscape:window-maximized="0"
+     inkscape:snap-global="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-grids="true"
+     inkscape:object-paths="false"
+     inkscape:snap-to-guides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid5700"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="true"
+       originx="2.5px"
+       originy="2.5px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5697">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>GIS icon theme 0.2</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robert Szczepanek</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Robert Szczepanek</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>GIS icons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:coverage>GIS icons</dc:coverage>
+        <dc:description>http://robert.szczepanek.pl/</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer"
+     style="display:inline"
+     transform="translate(0,-8)">
+    <rect
+       style="fill:#6e97c4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect6419"
+       width="4.0010509"
+       height="7.999999"
+       x="7.9999986"
+       y="7.9999995"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#447821;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6"
+       width="7.999999"
+       height="7.999999"
+       x="16.000002"
+       y="7.9999995"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#2b3b4d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6-9"
+       width="4.0010509"
+       height="7.999999"
+       x="7.9999986"
+       y="16"
+       inkscape:transform-center-x="-2.0005253"
+       inkscape:transform-center-y="-5.3333316"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#c6e9af;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-0"
+       width="7.999999"
+       height="7.999999"
+       x="16.000002"
+       y="16"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#2d3e4d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6-7"
+       width="7.999999"
+       height="7.999999"
+       x="-4.7683716e-07"
+       y="7.9999995"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#6d97c4;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-3"
+       width="7.999999"
+       height="7.999999"
+       x="-4.7683716e-07"
+       y="16"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#2b3b4d;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6-6"
+       width="7.999999"
+       height="7.999999"
+       x="-4.7683716e-07"
+       y="24.000002"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:none;stroke:none"
+       id="rect6554"
+       width="23.999998"
+       height="23.999998"
+       x="-4.7683716e-07"
+       y="7.9999995"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#c6e9af;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-57"
+       width="3.89763"
+       height="7.999999"
+       x="12.102633"
+       y="8.0344734"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#447821;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6-61"
+       width="7.999999"
+       height="7.999999"
+       x="15.999739"
+       y="24.030266"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#447821;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-6-9-1"
+       width="3.9321036"
+       height="7.999999"
+       x="12.067631"
+       y="16.033947"
+       inkscape:transform-center-x="-1.9660517"
+       inkscape:transform-center-y="-5.3333316"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#6e97c4;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-7"
+       width="4.0010509"
+       height="7.999999"
+       x="7.9999986"
+       y="23.996054"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <rect
+       style="fill:#c6e9af;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
+       id="rect6419-57-7"
+       width="3.89763"
+       height="7.999999"
+       x="12.137108"
+       y="23.995792"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33" />
+    <path
+       style="fill:#e2e3db;stroke:#ff0000;stroke-width:1.07252061px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 11.913421,4.4709434 0,31.0581136"
+       id="path3094"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="213.33"
+       inkscape:export-ydpi="213.33"
+       inkscape:export-filename="/home/soeren/Arbeit/soeren_gbd/programmierung/2014/mullundpartner/swipe_tool/MapSwipe/icon.png" />
+  </g>
+</svg>

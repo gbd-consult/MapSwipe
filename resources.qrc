@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/MapSwipe" >
+        <file>icon.png</file>
+    </qresource>
+    <qresource prefix="/plugins/MapSwipe" >
+        <file>help_icon.png</file>
+    </qresource>
+
+</RCC>

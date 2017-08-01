@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    
+    <title>Welcome to MapSwipe’s documentation! &mdash; MapSwipe 0.1 documentation</title>
+    
+    <link rel="stylesheet" href="_static/classic.css" type="text/css" />
+    <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+    
+    <script type="text/javascript">
+      var DOCUMENTATION_OPTIONS = {
+        URL_ROOT:    './',
+        VERSION:     '0.1',
+        COLLAPSE_INDEX: false,
+        FILE_SUFFIX: '.html',
+        HAS_SOURCE:  true
+      };
+    </script>
+    <script type="text/javascript" src="_static/jquery.js"></script>
+    <script type="text/javascript" src="_static/underscore.js"></script>
+    <script type="text/javascript" src="_static/doctools.js"></script>
+    <link rel="top" title="MapSwipe 0.1 documentation" href="#" /> 
+  </head>
+  <body role="document">
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             accesskey="I">index</a></li>
+        <li class="nav-item nav-item-0"><a href="#">MapSwipe 0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          <div class="body" role="main">
+            
+  <div class="section" id="welcome-to-mapswipe-s-documentation">
+<h1>Welcome to MapSwipe&#8217;s documentation!<a class="headerlink" href="#welcome-to-mapswipe-s-documentation" title="Permalink to this headline">¶</a></h1>
+<p>The MapSwipe plugin is designed to compare two raster or vector layers using
+an overlay mechanism called swiping. At the moment a single layer can be used as overlay,
+while any amount of layers (raster and vector) can be used in the background.
+Zooming, panning and object querying is fully supported in swipe mode.</p>
+<div class="toctree-wrapper compound">
+<ul class="simple">
+</ul>
+</div>
+<div class="section" id="getting-started">
+<h2>Getting started<a class="headerlink" href="#getting-started" title="Permalink to this headline">¶</a></h2>
+<p>To compare two images using the MapSwipe plugin we must first load two layers
+into QGIS. In this example we compare two satellite images from Japan that shows
+the situation before and after the Tsunami catastrophe from 2011 that
+are available here <a class="reference internal" href="#nasa" id="id1">[NASA]</a>.</p>
+<div class="figure align-center" id="id2">
+<a class="reference internal image-reference" href="_images/Snapshot_1.png"><img alt="_images/Snapshot_1.png" src="_images/Snapshot_1.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">QGIS with two satellite images from Japan to investigate
+the Tsunami aftermath from 2011.</span></p>
+</div>
+<p>The MapSwipe plugin can be started from the extension menu
+<span class="menuselection">Extensions ‣ MapSwipe</span> or
+using the MapSwipe symbol <a class="reference internal" href="_images/icon.png"><img alt="icon" src="_images/icon.png" style="width: 2em;" /></a> in the toolbar of QGIS. The manual page is
+available in the <span class="menuselection">Extensions ‣ MapSwipe</span> menu.</p>
+<p>When started, three new GUI components will appear within the QGIS window.
+The main widget on the left side with which the the swipe mechanism
+can be started and stopped. In addition
+the color of the overlay rectangle and the opacity of the overlay
+can be specified. Two slider widgets
+are placed below the map window and on the right side. These slider will modify
+size of the overlay rectangle in horizontal and vertical directions.
+They can be placed outside of QGIS as well.</p>
+<div class="figure align-center" id="id3">
+<a class="reference internal image-reference" href="_images/Snapshot_2.png"><img alt="_images/Snapshot_2.png" src="_images/Snapshot_2.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">Activated MapSwipe plugin showing the main GUI component and the two sliders.</span></p>
+</div>
+<p>To enable the swipe mechanism the <em>Start</em> button must be pressed. <strong>The current selected
+layer will be used to create the map overlay.</strong> Its name will appear
+in the <em>Selected layer</em> section of the MapSwipe main widget.
+The selected layer will be disabled
+in the layer window and the overlay window will be created. The <em>Stop</em> button
+will remove the overlay and disable the slider, color and opacity chooser.</p>
+<div class="figure align-center" id="id4">
+<a class="reference internal image-reference" href="_images/Snapshot_3.png"><img alt="_images/Snapshot_3.png" src="_images/Snapshot_3.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">Swipe sliders in vertical position. The left half shows the region of
+Japan before the Tsunami, the right half shows the region after the Tsunami
+impact.</span></p>
+</div>
+<table class="docutils citation" frame="void" id="nasa" rules="none">
+<colgroup><col class="label" /><col /></colgroup>
+<tbody valign="top">
+<tr><td class="label"><a class="fn-backref" href="#id1">[NASA]</a></td><td><a class="reference external" href="http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=49634">http://earthobservatory.nasa.gov/NaturalHazards/view.php?id=49634</a></td></tr>
+</tbody>
+</table>
+</div>
+<div class="section" id="overlay-size-and-layout">
+<h2>Overlay size and layout<a class="headerlink" href="#overlay-size-and-layout" title="Permalink to this headline">¶</a></h2>
+<p>The sliders can be used to create an overlay rectangle of arbitrary size. The
+sliders can be setup to allow vertical and horizontal mode.</p>
+<div class="figure align-center" id="id5">
+<a class="reference internal image-reference" href="_images/Snapshot_5.png"><img alt="_images/Snapshot_5.png" src="_images/Snapshot_5.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">Setting the sliders up to an arbitrary sized rectangle.</span></p>
+</div>
+<div class="figure align-center" id="id6">
+<a class="reference internal image-reference" href="_images/Snapshot_6.png"><img alt="_images/Snapshot_6.png" src="_images/Snapshot_6.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">Setting the sliders to enable horizontal swiping.</span></p>
+</div>
+</div>
+<div class="section" id="rectangle-color-and-opacity">
+<h2>Rectangle color and opacity<a class="headerlink" href="#rectangle-color-and-opacity" title="Permalink to this headline">¶</a></h2>
+<p>The opacity of the overlay can be modified in the MapSwipe main GUI component.
+The opacity can be set from fully transparent (0) to full opaque (100). In addition
+the color of the rectangle can be set to different colors.</p>
+<div class="figure align-center" id="id7">
+<a class="reference internal image-reference" href="_images/Snapshot_7.png"><img alt="_images/Snapshot_7.png" src="_images/Snapshot_7.png" style="width: 514.5px; height: 367.5px;" /></a>
+<p class="caption"><span class="caption-text">Modification of the rectangle color to white and overlay opacity to 60.</span></p>
+</div>
+<p>The color, opacity settings and the slider
+positions are temporary stored, so that the MapSwipe tool can be enabled and disabled
+without loosing the current settings. The settings will be lost, when QGIS gets restarted.</p>
+</div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+  <h3><a href="#">Table Of Contents</a></h3>
+  <ul>
+<li><a class="reference internal" href="#">Welcome to MapSwipe&#8217;s documentation!</a><ul>
+<li><a class="reference internal" href="#getting-started">Getting started</a></li>
+<li><a class="reference internal" href="#overlay-size-and-layout">Overlay size and layout</a></li>
+<li><a class="reference internal" href="#rectangle-color-and-opacity">Rectangle color and opacity</a></li>
+</ul>
+</li>
+</ul>
+
+  <div role="note" aria-label="source link">
+    <h3>This Page</h3>
+    <ul class="this-page-menu">
+      <li><a href="_sources/index.txt"
+            rel="nofollow">Show Source</a></li>
+    </ul>
+   </div>
+<div id="searchbox" style="display: none" role="search">
+  <h3>Quick search</h3>
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" />
+      <input type="submit" value="Go" />
+      <input type="hidden" name="check_keywords" value="yes" />
+      <input type="hidden" name="area" value="default" />
+    </form>
+    <p class="searchtip" style="font-size: 90%">
+    Enter search terms or a module, class or function name.
+    </p>
+</div>
+<script type="text/javascript">$('#searchbox').show(0);</script>
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="related" role="navigation" aria-label="related navigation">
+      <h3>Navigation</h3>
+      <ul>
+        <li class="right" style="margin-right: 10px">
+          <a href="genindex.html" title="General Index"
+             >index</a></li>
+        <li class="nav-item nav-item-0"><a href="#">MapSwipe 0.1 documentation</a> &raquo;</li> 
+      </ul>
+    </div>
+    <div class="footer" role="contentinfo">
+        &copy; Copyright 2013, Geoinformatikbüro Dassau GmbH.
+      Created using <a href="http://sphinx-doc.org/">Sphinx</a> 1.3.6.
+    </div>
+  </body>
+</html>
