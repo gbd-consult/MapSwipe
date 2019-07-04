@@ -8,10 +8,10 @@
 
 [general]
 name=MapSwipe
-description=Map swipe tool
+description=Map Swipe Tool
 qgisMinimumVersion=2.2
 qgisMaximumVersion=2.99
-website=http://www.gbd-consult.de
+website=https://www.gbd-consult.de
 version=0.8
 author=Geoinformatikbüro Dassau GmbH
 email=info@gbd-consult.de
@@ -22,8 +22,8 @@ about=Geoinformatikbüro Dassau GmbH, Rethelstraße 153, 40237 Düsseldorf
 # changelog=
 # tags are comma separated with spaces allowed
 # tags=
-homepage=http://plugins.gbd-consult.de
-# tracker=
+homepage=https://plugins.gbd-consult.de
+tracker=https://github.com/gbd-consult/MapSwipe/issues
 repository=https://github.com/gbd-consult/MapSwipe
 icon=icon.png
 experimental=True
